@@ -1,4 +1,4 @@
-#Benchmark problem 1a
+#Benchmark problem 1a 
 
 [GlobalParams]
   block = 0
