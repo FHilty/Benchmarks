@@ -1,4 +1,4 @@
-#Benchmark problem 1a
+#Benchmark problem 2c
 
 [Mesh]
   type = FileMesh
